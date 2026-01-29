@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Model & large files
+*.pt
+*.onnx
+
+# Env files
+.env
